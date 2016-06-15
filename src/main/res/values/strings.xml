@@ -1,0 +1,13 @@
+<resources>
+    <string name="common_external_storage_unavailable_message">External storage is not available.  Unable to restore data.</string>
+    <string name="common_backup_file_does_not_exist_message">Backup file does not exist.</string>
+    <string name="common_error_copying_file_label">Error copying file: </string>
+    <string name="common_error_opening_database_label">Error opening database: </string>
+    <string name="common_database_sync_error_label">Error synchronizing database: </string>
+    <string name="common_number_too_small_value">too small</string>
+    <string name="common_number_too_large_value">too big</string>
+    <string name="common_bytes">bytes</string>
+    <string name="common_kilobytes">KB</string>
+    <string name="common_megabytes">MB</string>
+    <string name="common_gigabytes">GB</string>
+</resources>
